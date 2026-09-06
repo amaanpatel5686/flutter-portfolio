@@ -1,0 +1,9 @@
+{
+    "name": "Amaan Patel Portfolio",
+    "short_name": "Portfolio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F6FA",
+    "theme_color": "#3F51B5",
+    "description": "AI/ML Portfolio of Amaan Patel"
+}
